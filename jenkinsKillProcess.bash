@@ -1,3 +1,4 @@
+#!/bin/bash
 #script to kill processes and run a jar file located in the install folder
 PROJECT="spring-boot-hello-world"
 mvn clean package
